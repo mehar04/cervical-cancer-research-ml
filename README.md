@@ -67,7 +67,7 @@ Neha Sharma
 Neeru Jindal
 
 📌 Citation
-If you use this work, please cite:
+(If you use this work, please cite:)
 
 Pandey, A., Arora, J., Kohli, G. S. R., Khurana, M., Sharma, N., & Jindal, N. (2025).  
 **Prediction of Cervical Cancer with Machine Learning Approaches.**  
