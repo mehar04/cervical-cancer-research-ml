@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Pandey, Aditya
+AU  - Arora, Jatin
+AU  - Kohli, Gursamrath Singh R.
+AU  - Khurana, Mehar
+AU  - Sharma, Neha
+AU  - Jindal, Neeru
+PY  - 2025
+DA  - 2025/06/22
+TI  - Prediction of Cervical Cancer with Machine Learning Approaches
+JO  - Journal of The Institution of Engineers (India): Series B
+AB  - Cervical Cancer is the second most common disease among Indian women aged 15 to 44 and is caused by aberrant cell proliferation in the cervix. So, its early detection is very crucial. Many screening measures like Pap smears, HPV tests, and Colposcopies are supported in this scenario. Inception + Support Vector Machine, Ensemble method), K-nearest neighbor, Bagging Decision Tree, Logistic Regression, and Convolutional Neural Networks Machine Learning techniques are the fundamental blocks of the system for cervical cancer cell identification and classification presented in this paper. In addition to the standard classification algorithms used to identify cervical Cancer, cell segmentation and feature extraction methods are typically required. Also, these proposed models need a massive dataset to avoid overfitting and poor generalization problems. After integrating the cell images into these models to obtain deep-learning features, an Extreme Learning Machine–based classifier classifies the given or input images. These techniques are also used for transfer learning and fine-tuning. These proposed models use the Inception deep learning model, which diagnoses cervical Cancer in multiple classes with a precision of approximately 99.1% and gives accuracies based on the input dataset.
+SN  - 2250-2114
+UR  - https://doi.org/10.1007/s40031-025-01248-7
+DO  - 10.1007/s40031-025-01248-7
+ID  - Pandey2025
+ER  - 
