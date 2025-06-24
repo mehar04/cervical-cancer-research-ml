@@ -3,7 +3,7 @@
 
 📄 Overview
 
-This repository contains the source code, methodology, and dataset details for our research paper:
+This repository contains the  methodology,dataset details and citation file for our research paper:
 
 *"Prediction of Cervical Cancer with Machine Learning Approaches"*  
 Published in: Journal of the Institution of Engineers (India): Series B, 2025
